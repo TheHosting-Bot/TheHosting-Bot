@@ -1,6 +1,8 @@
 # TheHosting Bot
 Le Bot qui relie votre installation Pterodactyl et WHMCS directement à Discord. Vous offrant une facilité d'utilisation de vos serveurs.
-
+<p align="center">
+  <img width="460" src="https://thehostingbot.xyz/assets/images/image022569.png?v51105510535061">
+</p>
 # Attention
 Ce repository Github ne contient pas de code, il n'existe que pour prendre des suggestions et problèmes concernant le bot.
 
