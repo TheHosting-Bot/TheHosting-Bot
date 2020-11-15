@@ -6,7 +6,11 @@ Ce repository Github ne contient pas de code, il n'existe que pour prendre des s
 
 
 • [Site Web](https://thehostingbot.xyz/)
+
 • [Espace Client](https://manager.thehostingbot.xyz/)
+
 • [Guide](https://guide.thehostingbot.xyz/)
+
 • [Ajouter le bot](https://thehostingbot.xyz/inviter)
+
 • [Rejoindre le serveur Discord](https://thehostingbot.xyz/discord)
