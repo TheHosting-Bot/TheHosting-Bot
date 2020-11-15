@@ -14,3 +14,5 @@ Ce repository Github ne contient pas de code, il n'existe que pour prendre des s
 • [Ajouter le bot](https://thehostingbot.xyz/inviter)
 
 • [Rejoindre le serveur Discord](https://thehostingbot.xyz/discord)
+
+![logo](https://thehostingbot.xyz/assets/images/image022569.png?v51105510535061)
